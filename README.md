@@ -131,6 +131,7 @@ True
 - Los enunciados se conservan tal cual en los comentarios de cada archivo, de modo que cada ejercicio es autocontenido.
 - Los ejercicios puramente teóricos (demostraciones) no aparecen: solo se incluye el código y, cuando se pedía, el análisis de complejidad en comentarios.
 - Las numeraciones saltan en algunos puntos (p. ej. hoja 3: 3–7, 10, 11) porque esos ejercicios eran teóricos o no requerían programación.
+- En algunas resoluciones se usan funciones auxiliares de otros archivos .py
 
 ## Aviso
 
